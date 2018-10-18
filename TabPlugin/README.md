@@ -19,7 +19,7 @@
  `<script src="js/yufy-tab.min.js" type="text/javascript"></script>`
  > 第二种是引入外部文件
  
- `<script src="https://rawgit.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.js" type="text/javascript"></script>`
+ `<script src="https://rawgit.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.min.js" type="text/javascript"></script>`
  
  ## 配置项
  * $el：tab核心配置和最外层容器配置，如：`#id`、`.class`。
