@@ -8,8 +8,8 @@
 ## 基本特点
 #### 支持自定义选项卡，包括一个页面可以同时用多个选项卡并且设置其按钮的样式、事件。
 #### 支持自动检测内容是否发生变化，可以查看这个[demo](https://github.com/YuFy1314/my-Plugins/blob/master/%E9%80%89%E9%A1%B9%E5%8D%A1/yufy-tab.html)。
-
- ## Get Started
+------
+ # Get Started
  
  ## 引入
  `<script src="js/yufy-tab.min.js" type="text/javascript"></script>`
@@ -67,7 +67,7 @@
  ```
  具体传参及写法直接查看[Demo for this plugin](https://github.com/YuFy1314/my-Plugins/blob/master/%E9%80%89%E9%A1%B9%E5%8D%A1/yufy-tab.html)
  
- #### 这个插件是工作闲时开发的，如果在使用的过程中遇到了什么问题可以提issues，或者联系我主页的邮箱。
+ ### 这个插件是工作闲时开发的，如果在使用的过程中遇到了什么问题可以提issues，或者联系我主页的邮箱。
  
  ## [个人主页](https://yufy1314.github.io/)
  ## [我的博客](https://www.jianshu.com/u/72f239ec5d03)
