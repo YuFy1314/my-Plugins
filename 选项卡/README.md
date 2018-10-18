@@ -69,5 +69,5 @@
  
  #### 这个插件是工作闲时开发的，如果在使用的过程中遇到了什么问题可以提issues，或者联系我主页的邮箱。
  
- ##[个人主页](https://yufy1314.github.io/)
- ##[我的博客](https://www.jianshu.com/u/72f239ec5d03)
+ ## [个人主页](https://yufy1314.github.io/)
+ ## [我的博客](https://www.jianshu.com/u/72f239ec5d03)
