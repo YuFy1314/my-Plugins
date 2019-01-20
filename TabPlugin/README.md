@@ -9,7 +9,7 @@
 
 ## 基本特点
 #### 支持自定义选项卡，包括一个页面可以同时用多个选项卡并且设置其按钮的样式、事件。
-#### 支持自动检测内容是否发生变化，可以查看这个[demo](https://github.com/YuFy1314/my-Plugins/blob/master/%E9%80%89%E9%A1%B9%E5%8D%A1/yufy-tab.html)。
+#### 支持自动检测内容是否发生变化，可以查看这个[demo](https://github.com/YuFy1314/my-Plugins/blob/master/TabPlugin/yufy-tab.html)。
 ------
  # Get Started
  
