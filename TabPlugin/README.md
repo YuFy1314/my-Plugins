@@ -21,6 +21,12 @@
  
  `<script src="https://rawgit.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.min.js" type="text/javascript"></script>`
  
+由于github上的响应url的问题, 需要把RAW链接修改一下
+Github上的地址: 
+https://raw.githubusercontent.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.min.js
+将上面的地址修改为: 
+https://rawgit.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.min.js
+
  ## 配置项
  * $el：tab核心配置和最外层容器配置，如：`#id`、`.class`。
  * tabBtn：选项按钮的元素容器，如：`标签`、`.class`。
