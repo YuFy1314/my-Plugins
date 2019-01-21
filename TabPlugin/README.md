@@ -22,9 +22,11 @@
  `<script src="https://rawgit.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.min.js" type="text/javascript"></script>`
  
 由于github上的响应url的问题, 需要把RAW链接修改一下
+
 Github上的地址: 
 https://raw.githubusercontent.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.min.js
-将上面的地址修改为: 
+
+将上面的地址修改为可以访问的RAW: 
 https://rawgit.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.min.js
 
  ## 配置项
