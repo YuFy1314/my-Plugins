@@ -29,7 +29,15 @@ https://raw.githubusercontent.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-t
 将上面的地址修改为可以访问的RAW: 
 https://rawgit.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.min.js
 
- ## 配置项
+ ## API
+ 
+ 通过new一个实例完成对构造函数getTabBar的创建, 再往该函数中传递一个对象参数, 这里的参数也就是这里的配置项
+
+ ```
+ new getTabBar();
+ ```
+ 
+ ### 配置项
  * $el：tab核心配置和最外层容器配置，如：`#id`、`.class`。
  * tabBtn：选项按钮的元素容器，如：`标签`、`.class`。
  * tabDiv：选项内容的元素容器，如：`标签`、`.class`。
@@ -72,14 +80,6 @@ https://rawgit.com/YuFy1314/my-Plugins/master/TabPlugin/js/yufy-tab.min.js
 | ---------- | :-----------:  | :-----------: |
 | backgroundColor     | #e3e4e5     | 选项卡按钮选中后的背景颜色     |
 
- ## API
- 
- 通过new一个实例完成对构造函数getTabBar的创建, 再往该函数中传递一个对象参数, 这里的参数也就是上面提到的配置项
- 
- 栗子:
- ```
- new getTabBar();
- ```
  具体传参及写法直接查看[Demo for this plugin](https://github.com/YuFy1314/my-Plugins/blob/master/%E9%80%89%E9%A1%B9%E5%8D%A1/yufy-tab.html)
  
  ### 这个插件是工作闲时开发的，如果在使用的过程中遇到了什么问题可以提issues，或者联系我主页的邮箱。
