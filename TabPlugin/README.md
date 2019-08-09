@@ -13,7 +13,7 @@
 ------
  # Get Started
  
- ## 引入
+ ## CDN
  > 引入有两种方式，一种是下载到本地再引入
  
  `<script src="js/yufy-tab.min.js" type="text/javascript"></script>`
